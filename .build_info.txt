@@ -1,0 +1,4 @@
+version=1.23.0
+built_at=2026-11-18T18:52:06.315Z
+exes=otclient
+channel=test
